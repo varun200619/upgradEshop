@@ -1,0 +1,174 @@
+[
+	{
+		"name": "The Great Gatsby",
+		"description": "Classic novel by F. Scott Fitzgerald",
+		"category": "Books",
+		"price": 10.99,
+		"manufacturer": "Scribner",
+		"availableItems": 25,
+		"imageURL": "https://kbimages1-a.akamaihd.net/2411acbb-9daa-43fb-a5a2-a9aec064e17e/1200/1200/False/the-great-gatsby-238.jpg"
+	},
+	{
+		"name": "Harry Potter and the Sorcerer's Stone",
+		"description": "First book in the Harry Potter series by J.K. Rowling",
+		"category": "Books",
+		"price": 8.99,
+		"manufacturer": "Bloomsbury",
+		"availableItems": 30,
+		"imageURL": "https://resizing.flixster.com/Q5W7m_i_f24Q_a4zLeRxNvx1WAs=/206x305/v2/https://flxt.tmsimg.com/assets/p28630_p_v8_at.jpg"
+	},
+	{
+		"name": "The Catcher in the Rye",
+		"description": "Novel by J.D. Salinger",
+		"category": "Books",
+		"price": 11.99,
+		"manufacturer": "Little, Brown and Company",
+		"availableItems": 20,
+		"imageURL": "https://m.media-amazon.com/images/I/7108sdEUEGL.jpg"
+	},
+	{
+		"name": "The Hobbit",
+		"description": "Fantasy novel by J.R.R. Tolkien",
+		"category": "Books",
+		"price": 9.99,
+		"manufacturer": "Allen & Unwin",
+		"availableItems": 18,
+		"imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/The_Hobbit_trilogy_dvd_cover.jpg/220px-The_Hobbit_trilogy_dvd_cover.jpg"
+	},
+
+	{
+		"name": "Ray-Ban Aviator Sunglasses",
+		"description": "Iconic sunglasses with a timeless design",
+		"category": "Fashion",
+		"price": 129.99,
+		"manufacturer": "Ray-Ban",
+		"availableItems": 15,
+		"imageURL": "https://images.jdmagicbox.com/quickquotes/images_main/idee-sunglasses-16-06-2021-0723-227465026-kfyl6.jpg"
+	},
+	{
+		"name": "Gucci GG Marmont Bag",
+		"description": "Luxury leather handbag with the signature GG logo",
+		"category": "Fashion",
+		"price": 1899.99,
+		"manufacturer": "Gucci",
+		"availableItems": 8,
+		"imageURL": "https://image.goxip.com/D81EMxHLusuNqiltS61ZC07hegg=/fit-in/500x500/filters:format(jpg):quality(80):fill(white)/https:%2F%2Fimg.ssensemedia.com%2Fimages%2F221451F048082_1%2Fwhite-super-mini-gg-marmont-bag.jpg"
+	},
+	{
+		"name": "Levi's Trucker Jacket",
+		"description": "Iconic denim jacket with a timeless style",
+		"category": "Fashion",
+		"price": 99.99,
+		"manufacturer": "Levi's",
+		"availableItems": 12,
+		"imageURL": "https://www.levi.in/on/demandware.static/-/Sites-LeviMaster-Catalog/en_IN/dw56f89e29/images/hi-res/723340409/723340409_01_Front.jpg"
+	},
+	{
+		"name": "Adidas Ultraboost Sneakers",
+		"description": "Performance running shoes with responsive cushioning",
+		"category": "Fashion",
+		"price": 159.99,
+		"manufacturer": "Adidas",
+		"availableItems": 20,
+		"imageURL": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5898799b135648bcaf35ae28011c172b_9366/Ultraboost_DNA_5.0_Shoes_White_GV8740_01_standard.jpg"
+	},
+	{
+		"name": "Rolex Submariner Watch",
+		"description": "Luxury diving watch with a classic design",
+		"category": "Fashion",
+		"price": 9999.99,
+		"manufacturer": "Rolex",
+		"availableItems": 5,
+		"imageURL": "https://w7.pngwing.com/pngs/576/498/png-transparent-rolex-submariner-rolex-datejust-automatic-watch-rolex-watch-accessory-gold-rolex-thumbnail.png"
+	},
+	{
+		"name": "Apple iPhone 13 Pro",
+		"description": "Flagship smartphone with advanced features",
+		"category": "Electronics",
+		"price": 1099.99,
+		"manufacturer": "Apple",
+		"availableItems": 10,
+		"imageURL": "https://pngimg.com/uploads/iphone_13/iphone_13_PNG3.png"
+	},
+	{
+		"name": "Samsung QLED 4K TV",
+		"description": "High-end TV with stunning picture quality",
+		"category": "Electronics",
+		"price": 1799.99,
+		"manufacturer": "Samsung",
+		"availableItems": 8,
+		"imageURL": "https://s3b.cashify.in/gpro/uploads/2022/05/09141202/samsung-qa75q8camk-75-inch-qled-4k-front.jpg"
+	},
+	{
+		"name": "Sony WH-1000XM4 Headphones",
+		"description": "Wireless noise-canceling headphones with exceptional sound",
+		"category": "Electronics",
+		"price": 349.99,
+		"manufacturer": "Sony",
+		"availableItems": 12,
+		"imageURL": "https://cdn1.smartprix.com/rx-i7ow07JBt-w1200-h1200/7ow07JBt.jpg"
+	},
+	{
+		"name": "Dell XPS 13 Laptop",
+		"description": "Ultra-portable laptop with a stunning display",
+		"category": "Electronics",
+		"price": 1299.99,
+		"manufacturer": "Dell",
+		"availableItems": 9,
+		"imageURL": "https://m.media-amazon.com/images/I/61OBvwVHtQL.jpg"
+	},
+	{
+		"name": "Fitbit Charge 4",
+		"description": "Advanced fitness tracker with built-in GPS",
+		"category": "Electronics",
+		"price": 149.99,
+		"manufacturer": "Fitbit",
+		"availableItems": 15,
+		"imageURL": "https://media.dcrainmaker.com/images/2020/04/Fitbit-Charge-4-Sleep-Schedule_thumb.jpg"
+	},
+	{
+		"name": "Nike Air Force 1",
+		"description": "Classic sneakers with a versatile design",
+		"category": "Footwear",
+		"price": 89.99,
+		"manufacturer": "Nike",
+		"availableItems": 25,
+		"imageURL": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f153b4e4-9069-44ae-bf86-f70ae8ecbaa1/air-force-1-07-flyease-shoes-lpjTWM.png"
+	},
+	{
+		"name": "Dr. Martens 1460",
+		"description": "Iconic leather boots with a distinctive style",
+		"category": "Footwear",
+		"price": 149.99,
+		"manufacturer": "Dr. Martens",
+		"availableItems": 20,
+		"imageURL": "https://m.media-amazon.com/images/I/81tsdWve14S._UY695_.jpg"
+	},
+	{
+		"name": "Puma RS-X3",
+		"description": "Modern sneakers with a chunky silhouette",
+		"category": "Footwear",
+		"price": 99.99,
+		"manufacturer": "Puma",
+		"availableItems": 18,
+		"imageURL": "https://www.pngitem.com/pimgs/m/249-2491810_puma-rs-x-toy-png-transparent-png.png"
+	},
+	{
+		"name": "New Balance Fresh Foam 1080",
+		"description": "Premium running shoes with plush cushioning",
+		"category": "Footwear",
+		"price": 129.99,
+		"manufacturer": "New Balance",
+		"availableItems": 22,
+		"imageURL": "https://images-cdn.ubuy.co.in/633ae088f88cee62fa7312c1-sepatu-lari-pria-1080-v10.jpg"
+	},
+	{
+		"name": "Converse Chuck Taylor All Star",
+		"description": "Classic canvas sneakers for everyday wear",
+		"category": "Footwear",
+		"price": 59.99,
+		"manufacturer": "Converse",
+		"availableItems": 28,
+		"imageURL": "https://atlas-content-cdn.pixelsquid.com/stock-images/basketball-shoes-high-top-sneakers-Oxnn73B-600.jpg"
+	}
+]

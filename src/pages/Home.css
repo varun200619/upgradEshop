@@ -1,0 +1,36 @@
+.banner-container {
+	width: 100%;
+}
+.banner-container img {
+	width: 100%;
+}
+.display-products {
+	text-align: end;
+	margin-top: 40px;
+	margin-right: 30px;
+}
+.display-products a {
+	border: 1px solid #074264;
+	padding: 2px 8px;
+	color: #074264;
+	font-weight: 700;
+}
+.card-container {
+	margin: 30px auto;
+	width: 90%;
+	height: 650px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	overflow-y: hidden;
+	box-shadow: 1px 3px 20px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 800px) {
+	.card-container {
+		width: 90%;
+		height: 1927px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
